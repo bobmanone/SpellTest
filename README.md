@@ -1,0 +1,2 @@
+# SpellTest
+Testing Spells Map
